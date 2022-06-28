@@ -32,7 +32,7 @@ spec:
     spec:
       containers:
       - name: flask
-        image: flask
+        image: # prebuilt-image
         ports:
           - containerPort: 9092
 ---
