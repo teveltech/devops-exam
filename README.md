@@ -17,8 +17,6 @@ Deploy a local Kubernetes cluster, you can use:
 
 3. Our developers didn't do such a good work, help them fix it.
 
-4. PR your changes and explain your solution.
-
 ## Expected result
 
 After the application starts, navigate to `http://SERVER-IP:SERVER-PORT` in your web browser:
